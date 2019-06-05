@@ -1,3 +1,5 @@
+package server.model.players;
+
 import java.io.*;
 
 public class EcoManager
